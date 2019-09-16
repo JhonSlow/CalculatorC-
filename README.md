@@ -1,1 +1,2 @@
-# CalculatorC-
+# CalculatorC#
+Csharp Calculator
