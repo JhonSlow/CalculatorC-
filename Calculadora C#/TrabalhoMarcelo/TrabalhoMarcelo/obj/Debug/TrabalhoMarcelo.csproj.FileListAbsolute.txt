@@ -1,0 +1,40 @@
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.exe.config
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.exe
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.pdb
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.Form1.resources
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.Properties.Resources.resources
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csproj.GenerateResource.cache
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.exe
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.pdb
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho - Copia\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.exe.config
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho - Copia\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.exe
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho - Copia\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.pdb
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho - Copia\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho - Copia\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.Form1.resources
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho - Copia\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.Properties.Resources.resources
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho - Copia\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csproj.GenerateResource.cache
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho - Copia\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho - Copia\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.exe
+C:\Users\Paulo Henrique\Documents\Nova pasta\MarceloTrabalho - Copia\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.pdb
+C:\Users\Paulo Henrique\Desktop\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.exe.config
+C:\Users\Paulo Henrique\Desktop\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.exe
+C:\Users\Paulo Henrique\Desktop\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.pdb
+C:\Users\Paulo Henrique\Desktop\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Henrique\Desktop\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.Form1.resources
+C:\Users\Paulo Henrique\Desktop\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.Properties.Resources.resources
+C:\Users\Paulo Henrique\Desktop\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csproj.GenerateResource.cache
+C:\Users\Paulo Henrique\Desktop\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Henrique\Desktop\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.exe
+C:\Users\Paulo Henrique\Desktop\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.pdb
+F:\PROGRAMAÇAO\uniara\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.exe.config
+F:\PROGRAMAÇAO\uniara\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.exe
+F:\PROGRAMAÇAO\uniara\TrabalhoMarcelo\TrabalhoMarcelo\bin\Debug\TrabalhoMarcelo.pdb
+F:\PROGRAMAÇAO\uniara\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csprojAssemblyReference.cache
+F:\PROGRAMAÇAO\uniara\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.Form1.resources
+F:\PROGRAMAÇAO\uniara\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.Properties.Resources.resources
+F:\PROGRAMAÇAO\uniara\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csproj.GenerateResource.cache
+F:\PROGRAMAÇAO\uniara\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.csproj.CoreCompileInputs.cache
+F:\PROGRAMAÇAO\uniara\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.exe
+F:\PROGRAMAÇAO\uniara\TrabalhoMarcelo\TrabalhoMarcelo\obj\Debug\TrabalhoMarcelo.pdb
